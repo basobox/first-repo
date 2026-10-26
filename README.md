@@ -31,3 +31,5 @@ git commit -m "alasan simpannya apa"
 
 ini adalah tulisan tambahan 
 ini adalah tulisan lagi
+
+Ini tulisan lagi
